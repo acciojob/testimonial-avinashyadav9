@@ -21,7 +21,8 @@ div {
 p {
     margin: 0;
 }
-.author{
-	font-style:italic;
-	text-align:right;
+
+.author {
+    font-style: italic;
+    text-align: right;
 }
